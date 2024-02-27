@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.使用经验.md",
+                "file": "从Studio中导出数据/研究笔记.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9338241b76c58c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.API一览.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.使用经验.md",
+                "file": "从Studio中导出数据/研究笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.使用经验.md",
+                "file": "从Studio中导出数据/研究笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +137,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.使用经验.md"
+                "file": "从Studio中导出数据/研究笔记.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,6 +162,14 @@
   "lastOpenFiles": [
     "1.API一览.md",
     "2.使用经验.md",
+    "从Studio中导出数据/研究笔记.md",
+    "从Studio中导出数据/未命名.md",
+    "从Studio中导出数据/images/Pasted image 20240227111907.png",
+    "从Studio中导出数据/images/Pasted image 20240227111855.png",
+    "从Studio中导出数据/images",
+    "Pasted image 20240226162641.png",
+    "FMODMap.data文件格式定义.md",
+    "从Studio中导出数据",
     "README.md",
     "Welcome.md",
     "create a link.md"
